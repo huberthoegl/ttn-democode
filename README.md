@@ -16,4 +16,8 @@ Hubert Högl, <Hubert.Hoegl@hs-augsburg.de>
   $ export ACCESSKEY=...
   ```
 
+* `co2ampel_client.py` - Read sensor values with MQTT callback and store them
+  in a InfluxDB.
+
+
 
